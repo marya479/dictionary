@@ -1,6 +1,6 @@
 import React from "react";
 
-export default function Result();
+export default function Results();
 return (
-    
+<div>Hello from results</div>
 )
